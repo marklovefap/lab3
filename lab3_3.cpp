@@ -1,8 +1,8 @@
 #include<iostream>
 int main()
 {
-float x=2, y=0;
-while(x<=69)
+float x=6, y=0;
+while(x<=19)
 {  
 x = x+1;
 y = 1/x+y;
